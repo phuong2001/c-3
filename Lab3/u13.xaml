@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="Lab3.u13"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lab3"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="10,20,0,0">
+        <StackPanel>
+            <TextBlock Text="Lorem lpsum" FontSize="48" Margin="0,0,0,20"/>
+            <StackPanel Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Width="250" Margin="0,0,20,0">
+                The designer I set to 13.3 Desktop (1280 x 720) 100% Scale. That might help you as you're building this.
+You're going to need a little bit more horizontal space to work with.
+                The designer I set to 13.3 Desktop (1280 x 720) 100% Scale. That might help you as you're building this.
+You're going to need a little bit more horizontal space to work with.
+            </TextBlock>
+                <TextBlock TextWrapping="Wrap" Width="500" Margin="0,0,20,0">
+                The TextBlock at the very top is 48 pixels. The TextBlock in the first column will be 250 pixels wide. The
+TextBlock in the second column will be 500 pixels wide. The third column is 300 pixels wide. The third
+area looks like it's split 200 pixels for the large blue box and then 100 pixels for the red and the yellow
+boxes.
+                    The TextBlock at the very top is 48 pixels. The TextBlock in the first column will be 250 pixels wide. The
+TextBlock in the second column will be 500 pixels wide. The third column is 300 pixels wide. The third
+area looks like it's split 200 pixels for the large blue box and then 100 pixels for the red and the yellow
+boxes.
+            </TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle  Width="200" Height="200" Fill="Blue" VerticalAlignment="Top"/>
+                    <StackPanel>
+                    <Rectangle Width="100" Height="100" Fill="Red"/>
+                    <Rectangle Width="100" Height="100" Fill="Yellow"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
