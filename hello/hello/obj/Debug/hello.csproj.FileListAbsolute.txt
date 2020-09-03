@@ -1,0 +1,15 @@
+D:\c#3\hello\hello\obj\Debug\hello.csprojAssemblyReference.cache
+D:\c#3\hello\hello\obj\Debug\MainWindow.g.cs
+D:\c#3\hello\hello\obj\Debug\App.g.cs
+D:\c#3\hello\hello\obj\Debug\hello_MarkupCompile.cache
+D:\c#3\hello\hello\obj\Debug\hello_MarkupCompile.lref
+D:\c#3\hello\hello\bin\Debug\hello.exe.config
+D:\c#3\hello\hello\bin\Debug\hello.exe
+D:\c#3\hello\hello\bin\Debug\hello.pdb
+D:\c#3\hello\hello\obj\Debug\MainWindow.baml
+D:\c#3\hello\hello\obj\Debug\hello.g.resources
+D:\c#3\hello\hello\obj\Debug\hello.Properties.Resources.resources
+D:\c#3\hello\hello\obj\Debug\hello.csproj.GenerateResource.cache
+D:\c#3\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+D:\c#3\hello\hello\obj\Debug\hello.exe
+D:\c#3\hello\hello\obj\Debug\hello.pdb
