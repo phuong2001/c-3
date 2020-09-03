@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="App3.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App3"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Button x:ConnectionId='2' x:Name="login" Content="Login" Margin="422,591,0,0" VerticalAlignment="Top" Height="66" Width="261" FontSize="40"/>
+        <TextBox HorizontalAlignment="Left" Margin="825,339,0,0" Text="Password" TextWrapping="Wrap" VerticalAlignment="Top" Height="107" Width="240" FontSize="40"/>
+
+
+
+    </Grid>
+</Page>
+
