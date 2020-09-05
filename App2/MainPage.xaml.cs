@@ -25,6 +25,43 @@ namespace App2
         public MainPage()
         {
             this.InitializeComponent();
+
+            MyFrame.Navigate(typeof(Financial));
+            TitleTextBlock.Text = "Financial";
+
+            BackButton.Visibility = Visibility.Collapsed;
+            Financial.IsSelected = true;
         }
+
+        private void HumburgerButton_Click(object sender, RoutedEventArgs e)
+        {
+            MySplitView.IsPaneOpen = !MySplitView.IsPaneOpen;
+        }
+
+        private void BackButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (MyFrame.CanGoBack)
+            {
+                MyFrame.GoBack();
+                Financial.IsSelected = true;
+            }
+        }
+
+        private void IconsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (Financial.IsSelected)
+            {
+                BackButton.Visibility = Visibility.Collapsed;
+                MyFrame.Navigate(typeof(Financial));
+                TitleTextBlock.Text = "Financial";
+            }else if (Food.IsSelected)
+            {
+                BackButton.Visibility = Visibility.Visible;
+                MyFrame.Navigate(typeof(Food));
+                TitleTextBlock.Text = "Food";
+            }
+        }
+
+        
     }
 }

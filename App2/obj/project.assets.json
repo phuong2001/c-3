@@ -8157,11 +8157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\App1\\App2\\App2.csproj",
-      "projectName": "App2",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\App1\\App2\\App2.csproj",
+      "projectUniqueName": "D:\\App2\\App2\\demo_lab5.csproj",
+      "projectName": "demo_lab5",
+      "projectPath": "D:\\App2\\App2\\demo_lab5.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\App1\\App2\\obj\\",
+      "outputPath": "D:\\App2\\App2\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
