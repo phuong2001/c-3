@@ -1,0 +1,31 @@
+create database Newspaper;
+GO
+
+use Newspaper;
+
+Create table News(
+NewsId int not null IDENTITY,
+Sections nvarchar(max) not null,
+CONSTRAINT PK_News PRIMARY KEY (NewsId)
+);
+
+Create table Post(
+PostId int not null identity,
+NewsId int not null,
+Content nvarchar(max),
+Title nvarchar(max),
+Constraint PK_Post PRIMARY KEY (PostId),
+Constraint FK_Post_News_NewsId FOREIGN KEY (NewsId) REFERENCES News (NewsId) ON DELETE CASCADE
+);
+
+Insert into dbo.News (Sections) values (N'Entertainment');
+GO
+
+Insert into dbo.News (Sections) values (N'Sports');
+GO
+
+Insert into dbo.News (Sections) values (N'Education');
+GO
+
+Insert into dbo.News (Sections) values (N'Business');
+GO
