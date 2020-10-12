@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+      "projectUniqueName": "D:\\c-3\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
       "projectName": "ContosoCrafts.WebSite",
-      "projectPath": "D:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+      "projectPath": "D:\\c-3\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
+      "outputPath": "D:\\c-3\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
