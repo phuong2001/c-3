@@ -1,0 +1,111 @@
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.exe
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.deps.json
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.json
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.dll
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.pdb
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.Views.dll
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.Views.pdb
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorAssemblyInfo.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorAssemblyInfo.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.TagHelpers.input.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.TagHelpers.output.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorCoreGenerate.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorTargetAssemblyInfo.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorTargetAssemblyInfo.cs
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.Views.pdb
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\staticwebassets\Exam2.StaticWebAssets.Manifest.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\staticwebassets\Exam2.StaticWebAssets.xml
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.dll
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.pdb
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.CopyComplete
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.exe
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.deps.json
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.json
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.dev.json
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.dll
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.pdb
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.Views.dll
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.Views.pdb
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csprojAssemblyReference.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfoInputs.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfo.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorAssemblyInfo.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorAssemblyInfo.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.TagHelpers.input.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.TagHelpers.output.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorCoreGenerate.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorTargetAssemblyInfo.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorTargetAssemblyInfo.cs
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.Views.pdb
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\staticwebassets\Exam2.StaticWebAssets.Manifest.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\staticwebassets\Exam2.StaticWebAssets.xml
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.dll
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.pdb
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.genruntimeconfig.cache
+C:\Users\dotro\Downloads\SEM3_2-master (3)\SEM3_2-master\ASP .Net\Exam\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.CopyComplete
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.exe
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.deps.json
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.json
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.dll
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.pdb
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.Views.dll
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\bin\Debug\netcoreapp3.1\Exam2.Views.pdb
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.TagHelpers.input.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.TagHelpers.output.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorCoreGenerate.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.Views.pdb
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\staticwebassets\Exam2.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\staticwebassets\Exam2.StaticWebAssets.xml
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.dll
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.pdb
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.genruntimeconfig.cache
+C:\Users\Admin\Downloads\ExamProduct\ExamProduct\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.CopyComplete

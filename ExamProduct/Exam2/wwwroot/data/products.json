@@ -1,0 +1,39 @@
+﻿[
+  {
+    "Id": "1",
+    "Name": "Kỵ sĩ bóng đêm - The Dark Knight",
+    "img": "https://cdn.tgdd.vn/Files/2020/01/14/1231516/top-10-bo-phim-hanh-dong-dang-xem-nhat-moi-thoi-dai--cap-nhat-2020-14.jpg",
+
+    "Price": 903
+  },
+  {
+    "Id": "2",
+    "Name": "Kẻ Hủy diệt 2: Ngày phán xét ",
+    "img": "https://cdn.tgdd.vn/Files/2020/01/14/1231516/top-10-bo-phim-hanh-dong-dang-xem-nhat-moi-thoi-dai--cap-nhat-2020-7.jpg",
+    "Price": 969
+  },
+  {
+    "Id": "3",
+    "Name": "Đương đầu với thử thách - Die Hard",
+    "img": "https://cdn.tgdd.vn/Files/2020/01/14/1231516/top-10-bo-phim-hanh-dong-dang-xem-nhat-moi-thoi-dai--cap-nhat-2020-4.jpg",
+    "Price": 696
+  },
+  {
+    "Id": "4",
+    "Name": "Kẻ đánh cắp giấc mơ - Inception",
+    "img": "https://cdn.tgdd.vn/Files/2020/01/14/1231516/top-10-bo-phim-hanh-dong-dang-xem-nhat-moi-thoi-dai--cap-nhat-2020-5.jpg",
+    "Price": 970
+  },
+  {
+    "Id": "5",
+    "Name": "Sử thi Baahubali 2: Hồi kết ",
+    "img": "https://cdn.tgdd.vn/Files/2020/01/14/1231516/top-10-bo-phim-hanh-dong-dang-xem-nhat-moi-thoi-dai--cap-nhat-2020-10.jpg",
+    "Price": 768
+  },
+  {
+    "Id": "6",
+    "Name": "Ma trận - The Matrix",
+    "img": "https://cdn.tgdd.vn/Files/2020/01/14/1231516/top-10-bo-phim-hanh-dong-dang-xem-nhat-moi-thoi-dai--cap-nhat-2020-8.jpg",
+    "Price": 945
+  }
+]
